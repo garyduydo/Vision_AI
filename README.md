@@ -1,2 +1,2 @@
 # Vision_AI
-An AI powered real time vision enhancement prototype
+An AI powered real time human vision enhancement prototype
